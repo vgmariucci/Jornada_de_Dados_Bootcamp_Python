@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+# Directories
+.venv
+.python-version
+tests/
+
+# Files
+poetry.lock
+pyproject.toml
+
