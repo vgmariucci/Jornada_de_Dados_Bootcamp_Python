@@ -3,6 +3,7 @@
 .venv
 .python-version
 tests/
+arquivos_csv/
 
 # Files
 poetry.lock
