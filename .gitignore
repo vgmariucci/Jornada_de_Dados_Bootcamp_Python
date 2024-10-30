@@ -9,6 +9,10 @@ arquivos_csv/
 poetry.lock
 pyproject.toml
 
+# Directories
+arquivos_de_saida/
+data/
+
 # Arquivo full
 .DS_Store
 
@@ -194,4 +198,3 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 # Generated using ignr.py - github.com/Antrikshy/ignr.py
-
